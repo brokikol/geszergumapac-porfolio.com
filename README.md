@@ -1,1 +1,1 @@
-# geszergumapac-porfolio.com
+# geszergumapac-portfolio.com
